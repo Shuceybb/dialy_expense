@@ -1,4 +1,7 @@
 # flutter_daily_expense
+# Name: Shuceyb Abdul Daahir
+# Id : c119555
+# Class: Ca192
 
 A new Flutter project.
 
